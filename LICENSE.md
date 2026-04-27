@@ -1,4 +1,4 @@
-
+Get the ultimate deadlock mod menu scripts with deadlock mod menu updated Scripts: auto-hero mana management & auto-hero turn rate. Featuring auto-hero mana management and
 
 
 
